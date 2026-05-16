@@ -1,0 +1,6 @@
+{
+  "name": "BookVerse: Express Book Reviews",
+  "description": "A comprehensive book review platform allowing users to browse books, search by ISBN/Author/Title, and manage reviews with authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
